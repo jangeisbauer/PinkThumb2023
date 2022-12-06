@@ -1,0 +1,25 @@
+{
+  "name": "Pinkthumb 2023",
+  "version": "2.0",
+  "description": "Type secrets only if you see the pink thumb!",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action" :
+  {
+    "default_title" : "Type secrets only if you see the pink thumb!",
+    "default_icon": "/images/neutral.png"
+  },
+  "permissions" : [
+    "declarativeContent",
+    "webRequest",
+    "activeTab",
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://*/*",
+    "http://*/*"
+  ],
+  "manifest_version": 3
+}

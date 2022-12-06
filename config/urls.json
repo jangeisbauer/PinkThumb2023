@@ -1,0 +1,25 @@
+{
+	"Config": {
+		"MdeBuddyOn": false,
+		"MdeSignalUrl": "http://geisbauer.de"
+	},
+	"trustedUrls": [
+		{
+			"name": "google",
+			"url": "accounts.google.com"
+		},
+		{
+			"name": "microsoft",
+			"url": "login.microsoftonline.com"
+		},
+		{
+	    	"name": "outlook.com",
+			"url": "login.live.com"
+		}
+		,
+		{
+	    	"name": "web.de",
+			"url": "web.de"
+		}
+	]
+}
