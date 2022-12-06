@@ -1,4 +1,4 @@
-# PinkThumb2023
+# Pink Thumb 2023
 
 Pink Thumb displays a pink thumb next to the address bar, when you browse to a website that is on your trusted website list in the extension's config file. 
 
