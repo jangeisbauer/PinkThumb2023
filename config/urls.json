@@ -1,6 +1,6 @@
 {
 	"Config": {
-		"MdeBuddyOn": false,
+		"MdeBuddyOn": true,
 		"MdeSignalUrl": "http://geisbauer.de"
 	},
 	"trustedUrls": [

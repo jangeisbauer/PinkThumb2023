@@ -1,5 +1,5 @@
 {
-  "name": "Pink Thumb 2023",
+  "name": "Pink Thumb 2023 - MDE Edition",
   "version": "2.0",
   "description": "Type secrets only if you see the pink thumb!",
   "background": {
@@ -8,7 +8,8 @@
   "action" :
   {
     "default_title" : "Type secrets only if you see the pink thumb!",
-    "default_icon": "/images/neutral.png"
+    "default_icon": "/images/neutral.png",
+    "default_popup": "popup.html"
   },
   "permissions" : [
     "declarativeContent",
